@@ -7,3 +7,9 @@ body{
 #custom-first-heading-bg{
     background: white;
 }
+.card{
+    min-height:350px;
+}
+.card-img{
+    min-height:350px;
+}
