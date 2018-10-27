@@ -1,3 +1,9 @@
 body{
     background: #BDBDBD;
 }
+#custom-first-heading-title{
+    color:gray;
+}
+#custom-first-heading-bg{
+    background: white;
+}
